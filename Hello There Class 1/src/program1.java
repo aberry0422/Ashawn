@@ -7,7 +7,9 @@ public class program1 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Ouput core class info
+		//Output core class info
+		//The end result should have my name, favorite number, and age.
+		// I have to remind myself to no forget the semi-colon every time as well.
 		
 		int age = 18; 
 		String myNumber = "35"      ;
